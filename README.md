@@ -1,6 +1,6 @@
 # Zadania nr 1
     Napisz ciało metody createPicture(int n), która dla dowolnego n > 0 stworzy gotowy do wypisania w konsoli wzór.
-             *
+            /**
              * Przykłady:
              *
              * Dla n = 1 w konsoli powinien pojawić się wzór:
@@ -26,7 +26,7 @@
              * 4 3 2 2 2 3 4
              * 4 3 3 3 3 3 4
              * 4 4 4 4 4 4 4
- 
+             */
 #Zadanie nr 2
 /**
  * Liczba doskonała to liczba, której suma dzielników bez niej samej równy jest tej liczbie
@@ -37,12 +37,12 @@
  */
 
 #Zadanie nr 3
-
+     /**
      * Z publicznego API: https://jsonplaceholder.typicode.com pobierz wszystkie zapisane posty znajdujące się pod adresem
      * https://jsonplaceholder.typicode.com/posts tak by po wywołaniu metody getPosts() można było wypisać wszystkie elementy w konsoli,
      * podobnie jak wypisuje je przeglądarka po wejściu w link.
      *
      * Można skorzystać z dowolnych sposobów pobierania danych z API dostępnych dla języka Java.
-     * 
+     */
 
 
