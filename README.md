@@ -1,6 +1,7 @@
 # Zadania nr 1
-    Napisz ciało metody createPicture(int n), która dla dowolnego n > 0 stworzy gotowy do wypisania w konsoli wzór.
-            /**
+    /**
+            *Napisz ciało metody createPicture(int n), która dla dowolnego n > 0 stworzy gotowy do wypisania w konsoli wzór.
+            
              * Przykłady:
              *
              * Dla n = 1 w konsoli powinien pojawić się wzór:
